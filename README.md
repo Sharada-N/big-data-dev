@@ -12,7 +12,7 @@
 - I want to a full stack developer.
 
 ## Links
-- [LinkedIn](linkedin.com/in/sharada-devi-n-ba92a4197)
+- [LinkedIn](https://www.linkedin.com/in/sharada-devi-n-ba92a4197/)
 - [Github](https://github.com/Sharada-N)
 
 ![ME](https://github.com/Sharada-N/big-data-dev/blob/main/images/Sharada.jpeg)
